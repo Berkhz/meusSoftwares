@@ -1,0 +1,8 @@
+C:\Users\kauan\GitHub\meusSoftwares\PontoFacil\wwwroot\css\app.css
+C:\Users\kauan\GitHub\meusSoftwares\PontoFacil\wwwroot\index.html
+C:\Users\kauan\GitHub\meusSoftwares\PontoFacil\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\kauan\GitHub\meusSoftwares\PontoFacil\wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html
